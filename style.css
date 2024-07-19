@@ -79,7 +79,7 @@ body {
     text-align: center;
     line-height: 25px;
     top: 19px;
-    left: 85px;
+    left: 60px;
     color: #003049;
 
 }
@@ -213,8 +213,8 @@ body {
     border-right: 180px solid #f4978e;
     border-top: 95px solid transparent;
     border-bottom: 100px solid transparent;
-    left: 110px;
-    top: -5px;
+    left: 120px;
+    top: 5px;
     width: 0;
     height: 0;
     z-index: 10;
